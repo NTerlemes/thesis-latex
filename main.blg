@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: chapters/abstract.aux
+A level-1 auxiliary file: chapters/chapter1.aux
+A level-1 auxiliary file: chapters/chapter2.aux
+A level-1 auxiliary file: chapters/chapter3.aux
+A level-1 auxiliary file: chapters/chapter4.aux
+A level-1 auxiliary file: chapters/chapter5.aux
+Database file #1: bib/bibliography.bib
+Warning--entry type for "Wada2005" isn't style-file defined
+--line 1226 of file bib/bibliography.bib
+Warning--I didn't find a database entry for "KlirYuan1995"
+Warning--I didn't find a database entry for "iotcloud1"
+Warning--empty journal in WHO
+Warning--empty publisher in broek
+Warning--empty journal in morschhauser2006healthy
+Warning--empty journal in Pollack2002
+Warning--empty booktitle in Kittman2015
+Warning--empty journal in Sun2009
+Warning--empty booktitle in Salem2015
+Warning--empty journal in Nguyen
+You've used 124 entries,
+            1791 wiz_defined-function locations,
+            1230 strings with 35753 characters,
+and the built_in function-call counts, 25078 in all, are:
+= -- 2484
+> -- 494
+< -- 14
++ -- 247
+- -- 123
+* -- 1477
+:= -- 3773
+add.period$ -- 399
+call.type$ -- 124
+change.case$ -- 118
+chr.to.int$ -- 0
+cite$ -- 132
+duplicate$ -- 1225
+empty$ -- 2847
+format.name$ -- 123
+if$ -- 5709
+int.to.chr$ -- 0
+int.to.str$ -- 124
+missing$ -- 115
+newline$ -- 632
+num.names$ -- 122
+pop$ -- 405
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 492
+stack$ -- 0
+substring$ -- 1871
+swap$ -- 246
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 280
+width$ -- 127
+write$ -- 1352
+(There were 11 warnings)

@@ -1,0 +1,12 @@
+# Fdb version 4
+["pdflatex"] 1756939139.42215 "thesis.tex" "thesis.pdf" "thesis" 1756939139.61906 2
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1738492461 8221447 a2d21122289bad6d240f7a21be5480da ""
+  "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
+  "thesis.aux" 1756939139.42179 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "thesis.tex" 1738487228 3582 137fbf981cda6beca47ff9813a2c789d ""
+  (generated)
+  "thesis.aux"
+  "thesis.log"
+  "thesis.pdf"
+  (rewritten before read)

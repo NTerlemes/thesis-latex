@@ -1,0 +1,632 @@
+\begin{thebibliography}{100}
+
+\bibitem{Gartner:HC}
+{\textlatin{Gartner, Inc.}}
+\newblock {\textlatin{Hype cycle}}.
+\newblock {\textlatin{\url{https://blogs.gartner.com/smarterwithgartner/files/2018/08/PR_490866_5_Trends_in_the_Emerging_Tech_Hype_Cycle_2018_Hype_Cycle.png}}}, 2018.
+\newblock [Προσπελάστηκε 20 Ιουνίου 2019].
+
+\bibitem{iotnumb}
+{\textlatin{Straw, John}}.
+\newblock {\textlatin{Disrupted electronics. The internet of things may create Moore's Law on steroids}}.
+\newblock {\textlatin{\url{https://disruptionhub.com/disrupted-electronics-internet-things-may-create-moores-law-steroids}}}, 2015.
+\newblock [Προσπελάστηκε 22 Ιουνίου 2019].
+
+\bibitem{iotrm}
+{\textlatin{Marginean, Hannelore and Tran, Tuan-Si and Karzel, Daniel}}.
+\newblock {\textlatin{The Internet of Things Reference Model}}.
+\newblock {\textlatin{\url{https://www.infoq.com/articles/internet-of-things-reference-architecture}}}, 2016.
+\newblock [Προσπελάστηκε 22 Ιουνίου 2019].
+
+\bibitem{rfidpass}
+{\textlatin{Zamam Tanim, M.M.}}
+\newblock {\textlatin{How does passive RFID works, briefly explained.}}, 2016.
+
+\bibitem{iot_applications}
+{\textlatin{IoT Applications}}.
+\newblock {\textlatin{\url{https://siliconangle.com/}}}, 2018.
+\newblock [Προσπελάστηκε 4 Ιουλίου 2019].
+
+\bibitem{human_population}
+{\textlatin{Population Structure}}.
+\newblock {\textlatin{\url{http://www.demographics.at/images/structure/wpp2015_world_pop_0-25-50_line-pie_orig.gif}}}, 2019.
+\newblock [Προσπελάστηκε 4 Ιουλίου 2019].
+
+\bibitem{WHO}
+{\textlatin{World Health Organization}}.
+\newblock {\textlatin{World Health Statistics 2019: Monitoring Health for the SDGs, Sustainable Development Goals}}.
+\newblock 2019.
+
+\bibitem{iot_h_example}
+{\textlatin{Fan, Yuan Jie and Yin, Yue Hong and Xu, Li Da and Zeng, Yan and Wu, Fan}}.
+\newblock {\textlatin{IoT-Based Smart Rehabilitation System}}.
+\newblock {\em {\textlatin{IEEE Transactions on Industrial Informatics}}}, 10(2):1568--1577, 2014.
+
+\bibitem{cardinaux}
+{\textlatin{Cardinaux, Fabien and Bhowmik, Deepayan and Abhayaratne, Charith and Hawley, Mark}}.
+\newblock {\textlatin{Video Based Technology for Ambient Assisted Living: A Review of the Literature}}.
+\newblock {\em {\textlatin{JAISE}}}, 3:253--269, {\textlatin{05}} 2011.
+
+\bibitem{rashidi2012survey}
+{\textlatin{Rashidi, Parisa and Mihailidis, Alex}}.
+\newblock {\textlatin{A survey on ambient-assisted living tools for older adults}}.
+\newblock {\em {\textlatin{IEEE journal of biomedical and health informatics}}}, 17(3):579--590, 2012.
+
+\bibitem{Ross2010}
+T.J. Ross.
+\newblock {\em Fuzzy Logic with Engineering Applications}.
+\newblock Wiley, 3rd edition, 2010.
+
+\bibitem{Zadeh1965}
+{\textlatin{Zadeh, L. A.}}
+\newblock {\textlatin{Fuzzy sets}}.
+\newblock {\em {\textlatin{Information and Control}}}, 8(3):338--353, 1965.
+
+\bibitem{DuboisPrade1980}
+D.~Dubois and H.~Prade.
+\newblock {\em Fuzzy Sets and Systems: Theory and Applications}.
+\newblock Academic Press, 1980.
+
+\bibitem{book:giusto}
+{\textlatin{Leal, Bernardo and Atzori, Luigi (auth.), Giusto, Daniel and Iera, Antonio and Morabito, Giacomo and Atzori, Luigi (eds.)}}.
+\newblock {\em {\textlatin{The Internet of Things: 20th Tyrrhenian Workshop on Digital Communications}}}.
+\newblock {\textlatin{Springer-Verlag New York}}, 1 edition, 2010.
+
+\bibitem{cisco2019}
+{\textlatin{Cisco}}.
+\newblock {\textlatin{Internet of Things At a Glance}}.
+\newblock {\textlatin{\url{https://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/white-paper-c11-741490.html}}}, 2019.
+\newblock [Προσπελάστηκε 22 Ιουνίου 2019].
+
+\bibitem{gartner2016}
+{\textlatin{Gartner, Inc.}}
+\newblock {\textlatin{Gartner Says by 2020, More Than Half of Major New Business Processes and Systems Will Incorporate Some Element of the Internet of Things}}.
+\newblock {\textlatin{\url{https://www.gartner.com/en/newsroom/press-releases/2016-01-14-gartner-says-by-2020-more-than-half-of-major-new-business-processes-and-systems-will-incorporate-some-element-of-the-internet-of-things}}}, 2016.
+\newblock [Προσπελάστηκε 21 Ιουνίου 2019].
+
+\bibitem{mck2016}
+{\textlatin{Bauer, H. and Patel, M. and Veira, J.}}
+\newblock {\textlatin{The Internet of things: Sizing up the opportunity}}.
+\newblock {\textlatin{\url{http://www.mckinsey.com/industries/high-tech/ our-insights/the-internet-of-things-sizing-up-the-opportunity}}}, 2016.
+\newblock [Προσπελάστηκε 21 Ιουνίου 2019].
+
+\bibitem{ATZORI20102787}
+{\textlatin{Atzori, Luigi and Iera, Antonio and Morabito, Giacomo}}.
+\newblock {\textlatin{The Internet of Things: A survey}}.
+\newblock {\em {\textlatin{Computer Networks}}}, 54(15):2787--2805, 2010.
+
+\bibitem{smalltag}
+{\textlatin{Murata Manufacturing Co., Ltd.}}
+\newblock {\textlatin{Murata introduces ultra small RAIN RFID tag for wearable and healthcare.}}
+\newblock {\textlatin{\url{https://www.murata.com/en-global/products/info/rfid/rfid/2017/0831}}}, 2017.
+\newblock [Προσπελάστηκε 23 Ιουνίου 2019].
+
+\bibitem{rainrfid}
+{\textlatin{Feig Electronics}}.
+\newblock {\textlatin{Benchmark Testing of UHF RFID Readers: How to Get Maximum Performance with the Latest RAIN RFID Tag}}.
+\newblock {\textlatin{\url{https://rfidreadernews.com/wp-content/uploads/2017/04/FEIG-Whitepaper-Benchmark-Testing-of-UHF-RFID-Readers.pdf}}}, 2017.
+\newblock [Προσπελάστηκε 23 Ιουνίου 2019].
+
+\bibitem{rfc7452}
+{\textlatin{Tschofenig, H. and Arkko, J. and Thaler, D. and McPherson, D.}}
+\newblock {\textlatin{Architectural Considerations in Smart Object Networking}}.
+\newblock {\textlatin{\url{https://tools.ietf.org/html/rfc7452}}}, {\textlatin{March}} 2015.
+
+\bibitem{iotcloud2}
+{\textlatin{Alhakbani, N. and Hassan, M.M. and Hossain, M.A. and Alnuem, M.}}
+\newblock {\textlatin{A framework of adaptive interaction support in Cloud-based Internet of Things (IoT) environemnt}}.
+\newblock {\em {\textlatin{Internet and Distributed Computing Systems}}}, pages 136--146, 2014.
+
+\bibitem{foster}
+{\textlatin{Foster, T.}}
+\newblock {\textlatin{Regulation of the Internet of Things}}.
+\newblock {\textlatin{\url{https://www.scl.org/articles/3685-regulation-of-the-internet-of-things}}}, 2017.
+\newblock [Προσπελάστηκε 25 Ιουνίου 2019].
+
+\bibitem{borgia2014}
+{\textlatin{Borgia, Eleonora}}.
+\newblock {\textlatin{The Internet of Things vision: Key features, applications and open issues}}.
+\newblock {\em {\textlatin{Computer Communications}}}, 54:1--31, 2014.
+
+\bibitem{iothome}
+{\textlatin{Risteska Stojkoska, Biljana L. and Trivodaliev, Kire V.}}
+\newblock {\textlatin{A review of Internet of Things for smart home: Challenges and solutions}}.
+\newblock {\em {\textlatin{Journal of Cleaner Production}}}, 140:1454--1464, 2017.
+
+\bibitem{iotmanuf}
+{\textlatin{Xu, Da L. and He, W. and Li, S.}}
+\newblock {\textlatin{Internet of things in industries: A survey}}.
+\newblock {\em {\textlatin{IEEE Transactions on Industrial Informatics}}}, 10(4):2233--2243, 2014.
+
+\bibitem{iotagric}
+\en{Zhang L., K. Ibibia, W. Dabipi and L. Brown}.
+\newblock \en{Internet of Things Applications in Agriculture}.
+\newblock {\em \en{In Internet of Things A to Z}}, 2018.
+
+\bibitem{iotcity}
+{\textlatin{Anthopoulos, L. and Janssen, M. and Weerakkody, V.}}
+\newblock {\textlatin{A Unified Smart City Model (USCM) for Smart City Conceptualization and Benchmarking}}.
+\newblock {\em {\textlatin{Smart Cities and Smart Spaces: Concepts, Methodologies, Tools, and Applications}}}, pages 247--264, 2019.
+
+\bibitem{Lubitz2003}
+{\textlatin{Lubitz, James and Cai, Liming and Kramarow, Ellen and Lentzner, Harold}}.
+\newblock {\textlatin{Health, Life Expectancy, and Health Care Spending among the Elderly}}.
+\newblock {\em {\textlatin{New England Journal of Medicine}}}, 349(11):1048--1055, {\textlatin{Sep}} 2003.
+
+\bibitem{Aarts2003}
+{\textlatin{Aarts, Emile and Marzano, Stefano}}.
+\newblock {\em {\textlatin{The New Everyday: Views on Ambient Intelligence}}}.
+\newblock {\textlatin{010 Publishers}}, 2003.
+
+\bibitem{Acampora2013}
+{\textlatin{Acampora, Giovanni and Cook, Diane J. and Rashidi, Parisa and Vasilakos, Athanasios V.}}
+\newblock {\textlatin{A Survey on Ambient Intelligence in Healthcare}}.
+\newblock {\em {\textlatin{Proceedings of the IEEE}}}, 101(12):2470--2494, {\textlatin{Dec}} 2013.
+
+\bibitem{Blackman2016}
+{\textlatin{Blackman, Stephanie and Matlo, Claudine and Bobrovitskiy, Charisse and Waldoch, Ashley and Fang, Mei Lan and Jackson, Piper and Mihailidis, Alex and Nyg{\aa}rd, Louise and Astell, Arlene and Sixsmith, Andrew}}.
+\newblock {\textlatin{Ambient Assisted Living Technologies for Aging Well: A Scoping Review}}.
+\newblock {\em {\textlatin{Journal of Intelligent Systems}}}, 25(1), {\textlatin{Jan}} 2016.
+
+\bibitem{broek}
+{\textlatin{Broek, Ger and Cavallo, Filippo and Wehrmann, Christian}}.
+\newblock {\em {\textlatin{AALIANCE Ambient Assisted Living Roadmap}}}, page 120.
+\newblock {\textlatin{01}} 2010.
+
+\bibitem{Queiros2013}
+\en{Alexandra Queir{\'{o}}s and Anabela Silva and Joaquim Alvarelh{\~{a}}o and Nelson Pacheco Rocha and Ant{\'{o}}nio Teixeira}.
+\newblock \en{Usability, accessibility and ambient-assisted living: a systematic literature review}.
+\newblock {\em \en{Universal Access in the Information Society}}, 14(1):57--66, \en{Oct} 2015.
+
+\bibitem{Peek2014}
+{\textlatin{Peek, Sebastiaan T.M. and Wouters, Eveline J.M. and van Hoof, Joost and Luijkx, Katrien G. and Boeije, Hennie R. and Vrijhoef, Hubertus J.M.}}
+\newblock {\textlatin{Factors influencing acceptance of technology for aging in place: A systematic review}}.
+\newblock {\em {\textlatin{International Journal of Medical Informatics}}}, 83(4):235--248, {\textlatin{Apr}} 2014.
+
+\bibitem{Bossen2013}
+{\textlatin{Bossen, Claus and Christensen, Lars Rune and Grönvall, Erik and Vestergaard, Lasse Steenbock}}.
+\newblock {\textlatin{{CareCoor}: Augmenting the coordination of cooperative home care work}}.
+\newblock {\em {\textlatin{International Journal of Medical Informatics}}}, 82(5):e189--e199, {\textlatin{May}} 2013.
+
+\bibitem{Cornejo2012}
+{\textlatin{Cornejo, Raymundo and Tentori, Mónica and Favela, Jesús}}.
+\newblock {\textlatin{Ambient Awareness to Strengthen the Family Social Network of Older Adults}}.
+\newblock {\em {\textlatin{Computer Supported Cooperative Work (CSCW)}}}, 22(2-3):309--344, {\textlatin{may}} 2012.
+
+\bibitem{Mosca2016}
+{\textlatin{Mosca, Ilaria and van der Wees, Philip J. and Mot, Esther S. and Wammes, Joost J.G. and Jeurissen, Patrick P.T.}}
+\newblock {\textlatin{Sustainability of Long-term Care: Puzzling Tasks Ahead for Policy-Makers}}.
+\newblock {\em {\textlatin{International Journal of Health Policy and Management}}}, 6(4):195--205, {\textlatin{Aug}} 2016.
+
+\bibitem{Wherton2009}
+{\textlatin{Wherton, Joseph and Prendergast, David}}.
+\newblock {\textlatin{The Building Bridges Project: Involving Older Adults in the Design of a Communication Technology to Support Peer-to-Peer Social Engagement}}.
+\newblock In {\em {\textlatin{HCI and Usability for e-Inclusion}}}, pages 111--134. {\textlatin{Springer Berlin Heidelberg}}, 2009.
+
+\bibitem{WHO2015}
+{\textlatin{World Health Organization}}.
+\newblock {\em {\textlatin{World Report on Ageing and Health}}}.
+\newblock {\textlatin{WORLD HEALTH ORGN}}, 2015.
+
+\bibitem{Bowling2003}
+{\textlatin{Bowling, Ann and Gabriel, Zahava and Dykes, Joanna and Dowding, Lee Marriott and Evans, Olga and Fleissig, Anne and Banister, David and Sutton, Stephen}}.
+\newblock {\textlatin{Let's Ask Them: A National Survey of Definitions of Quality of Life and Its Enhancement among People Aged 65 and Over}}.
+\newblock {\em {\textlatin{The International Journal of Aging and Human Development}}}, 56(4):269--306, {\textlatin{Jun}} 2003.
+
+\bibitem{GABRIEL2004}
+\en{Zahava Gabriel and Ann Bowling}.
+\newblock \en{Quality of life from the perspectives of older people}.
+\newblock {\em \en{Ageing and Society}}, 24(5):675--691, \en{Aug} 2004.
+
+\bibitem{Luanaigh2008}
+{\textlatin{{\'O} Luanaigh, Conor and Lawlor, Brian A.}}
+\newblock {\textlatin{Loneliness and the health of older people}}.
+\newblock {\em {\textlatin{International Journal of Geriatric Psychiatry}}}, 23(12):1213--1221, {\textlatin{Dec}} 2008.
+
+\bibitem{Shankar2011}
+{\textlatin{Shankar, Aparna and McMunn, Anne and Banks, James and Steptoe, Andrew}}.
+\newblock {\textlatin{Loneliness, social isolation, and behavioral and biological health indicators in older adults.}}
+\newblock {\em {\textlatin{Health Psychology}}}, 30(4):377--385, 2011.
+
+\bibitem{Thurston2009}
+{\textlatin{Thurston, Rebecca C. and Kubzansky, Laura D.}}
+\newblock {\textlatin{Women, Loneliness, and Incident Coronary Heart Disease}}.
+\newblock {\em {\textlatin{Psychosomatic Medicine}}}, 71(8):836--842, {\textlatin{Oct}} 2009.
+
+\bibitem{morschhauser2006healthy}
+{\textlatin{Morschh{\"a}user, Martina and Sochert, Reinhold}}.
+\newblock {\textlatin{Healthy work in an ageing Europe}}.
+\newblock 2006.
+
+\bibitem{dubois2019extending}
+\en{Dubois, Hans and others}.
+\newblock \en{Extending working lives through flexible retirement schemes}.
+\newblock In {\em \en{Policies for an Ageing Workforce}}, pages 32--37. \en{CEPS Centre for European Policy Studies}, 2019.
+
+\bibitem{Liu2016}
+{\textlatin{Liu, Lili and Stroulia, Eleni and Nikolaidis, Ioanis and Miguel-Cruz, Antonio and Rincon, Adriana Rios}}.
+\newblock {\textlatin{Smart homes and home health monitoring technologies for older adults: A systematic review}}.
+\newblock {\em {\textlatin{International Journal of Medical Informatics}}}, 91:44--59, {\textlatin{Jul}} 2016.
+
+\bibitem{Demiris2008}
+{\textlatin{Demiris, George and Hensel, Brian K.}}
+\newblock {\textlatin{Technologies for an aging society: a systematic review of "smart home" applications.}}
+\newblock {\em {\textlatin{Yearbook of medical informatics}}}, pages 33--40, 2008.
+
+\bibitem{aware_home}
+{\textlatin{Georgia Instiute of Technology}}.
+\newblock {\textlatin{The Aware Home Research Initiative(AHRI)}}.
+\newblock {\textlatin{\url{http://www.awarehome.gatech.edu/}}}, 2019.
+\newblock [Προσπελάστηκε 3 Μαρτίου 2020].
+
+\bibitem{Adlam2004}
+{\textlatin{Adlam, T. and Faulkner, R. and Orpwood, R. and Jones, K. and Macijauskiene, J. and Budraitiene, A.}}
+\newblock {\textlatin{The Installation and Support of Internationally Distributed Equipment for People With Dementia}}.
+\newblock {\em {\textlatin{IEEE Transactions on Information Technology in Biomedicine}}}, 8(3):253--257, {\textlatin{Sep}} 2004.
+
+\bibitem{Cahill2007}
+{\textlatin{Cahill, Suzanne and Begley, Emer and Faulkner, Jp}}.
+\newblock {\textlatin{"It gives me a sense of independence" – Findings from Ireland on the use and usefulness of assistive technology for people with dementia}}.
+\newblock {\em {\textlatin{Technology and Disability}}}, 19:133--142, {\textlatin{04}} 2007.
+
+\bibitem{Cook2013}
+{\textlatin{Cook, Diane J. and Crandall, Aaron S. and Thomas, Brian L. and Krishnan, Narayanan C.}}
+\newblock {\textlatin{CASAS: A Smart Home in a Box}}.
+\newblock {\em {\textlatin{Computer}}}, 46(7):62--69, {\textlatin{Jul}} 2013.
+
+\bibitem{Das2004}
+{\textlatin{Das, Sajal and Cook, Diane}}.
+\newblock {\textlatin{Health monitoring in an agent - based smart home}}.
+\newblock {\em {\textlatin{Proc Int Conf Smart Homes and Health Telematics (ICOST)}}}, {\textlatin{01}} 2004.
+
+\bibitem{yamazaki2007}
+{\textlatin{Yamazaki, Tatsuya}}.
+\newblock {\textlatin{The Ubiquitous Home}}.
+\newblock {\em {\textlatin{International Journal of Smart Home}}}, 1(1):17--22, 2007.
+
+\bibitem{Orpwood2004}
+{\textlatin{Orpwood, R. and Gibbs, C. and Adlam, T. and Faulkner, R. and Meegahawatte, D.}}
+\newblock {\textlatin{The Gloucester Smart House for People with Dementia — User-Interface Aspects}}.
+\newblock In {\em {\textlatin{Designing a More Inclusive World}}}, pages 237--245. {\textlatin{Springer London}}, 2004.
+
+\bibitem{Klack2011}
+{\textlatin{Klack, Lars and Möllering, Christian and Ziefle, Martina and Schmitz-Rode, Thomas}}.
+\newblock {\textlatin{Future Care Floor: A Sensitive Floor for Movement Monitoring and Fall Detection in Home Environments}}.
+\newblock In {\em {\textlatin{Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering}}}, pages 211--218. {\textlatin{Springer Berlin Heidelberg}}, 2011.
+
+\bibitem{Incel2013}
+{\textlatin{Incel, Ozlem Durmaz and Kose, Mustafa and Ersoy, Cem}}.
+\newblock {\textlatin{A Review and Taxonomy of Activity Recognition on Mobile Phones}}.
+\newblock {\em {\textlatin{BioNanoScience}}}, 3(2):145--171, {\textlatin{May}} 2013.
+
+\bibitem{Chernbumroong2011}
+{\textlatin{Chernbumroong, S. and Atkins, A. S. and Yu, Hongnian}}.
+\newblock {\textlatin{Activity classification using a single wrist-worn accelerometer}}.
+\newblock In {\em {\textlatin{2011 5th International Conference on Software, Knowledge Information, Industrial Management and Applications (SKIMA)}}}. {\textlatin{IEEE}}, {\textlatin{Sep}} 2011.
+
+\bibitem{Sen2015}
+{\textlatin{Sen, Sougata and Subbaraju, Vigneshwaran and Misra, Archan and Balan, Rajesh Krishna and Lee, Youngki}}.
+\newblock {\textlatin{The case for smartwatch-based diet monitoring}}.
+\newblock In {\em {\textlatin{2015 IEEE International Conference on Pervasive Computing and Communication Workshops (PerCom Workshops)}}}. {\textlatin{IEEE}}, {\textlatin{Mar}} 2015.
+
+\bibitem{Shoaib2016}
+{\textlatin{Shoaib, Muhammad and Bosch, Stephan and Incel, Ozlem and Scholten, Hans and Havinga, Paul}}.
+\newblock {\textlatin{Complex Human Activity Recognition Using Smartphone and Wrist-Worn Motion Sensors}}.
+\newblock {\em {\textlatin{Sensors}}}, 16(4):426, {\textlatin{Mar}} 2016.
+
+\bibitem{Bieber2013}
+{\textlatin{Bieber, Gerald and Haescher, Marian and Vahl, Matthias}}.
+\newblock {\textlatin{Sensor requirements for activity recognition on smart watches}}.
+\newblock In {\em {\textlatin{Proceedings of the 6th International Conference on PErvasive Technologies Related to Assistive Environments - PETRA '13}}}. {\textlatin{ACM Press}}, 2013.
+
+\bibitem{Rawassizadeh2014}
+{\textlatin{Rawassizadeh, Reza and Price, Blaine A. and Petre, Marian}}.
+\newblock {\textlatin{Wearables}}.
+\newblock {\em {\textlatin{Communications of the ACM}}}, 58(1):45--47, {\textlatin{Dec}} 2014.
+
+\bibitem{Casilari2015}
+{\textlatin{Casilari, Eduardo and Oviedo-Jiménez, Miguel A.}}
+\newblock {\textlatin{Automatic Fall Detection System Based on the Combined Use of a Smartphone and a Smartwatch}}.
+\newblock {\em {\textlatin{PLOS ONE}}}, 10(11):e0140929, {\textlatin{Nov}} 2015.
+
+\bibitem{Klonovs2016}
+{\textlatin{Klonovs, Juris and Haque, Mohammad A. and Krueger, Volker and Nasrollahi, Kamal and Andersen-Ranberg, Karen and Moeslund, Thomas B. and Spaich, Erika G.}}
+\newblock {\em {\textlatin{Distributed Computing and Monitoring Technologies for Older Patients}}}.
+\newblock {\textlatin{Springer International Publishing}}, 2016.
+
+\bibitem{Lutze2015}
+{\textlatin{Lutze, Rainer and Baldauf, Robert and Waldhor, Klemens}}.
+\newblock {\textlatin{Dehydration prevention and effective support for the elderly by the use of smartwatches}}.
+\newblock In {\em {\textlatin{2015 17th International Conference on E-health Networking, Application \& Services (HealthCom)}}}. {\textlatin{IEEE}}, {\textlatin{Oct}} 2015.
+
+\bibitem{Rienzo2010}
+{\textlatin{Di Rienzo, Marco and Meriggi, Paolo and Rizzo, Francesco and Castiglioni, Paolo and Lombardi, Carolina and Ferratini, Maurizio and Parati, Gianfranco}}.
+\newblock {\textlatin{Textile Technology for the Vital Signs Monitoring in Telemedicine and Extreme Environments}}.
+\newblock {\em {\textlatin{IEEE Transactions on Information Technology in Biomedicine}}}, 14(3):711--717, {\textlatin{May}} 2010.
+
+\bibitem{Pandian2008}
+\en{P.S. Pandian and K. Mohanavelu and K.P. Safeer and T.M. Kotresh and D.T. Shakunthala and Parvati Gopal and V.C. Padaki}.
+\newblock \en{Smart Vest: Wearable multi-parameter remote physiological monitoring system}.
+\newblock {\em \en{Medical Engineering {\&} Physics}}, 30(4):466--477, \en{May} 2008.
+
+\bibitem{Chang2013}
+{\textlatin{Cheng, Jingyuan and Amft, Oliver and Bahle, Gernot and Lukowicz, Paul}}.
+\newblock {\textlatin{Designing Sensitive Wearable Capacitive Sensors for Activity Recognition}}.
+\newblock {\em {\textlatin{IEEE Sensors Journal}}}, 13(10):3935--3947, {\textlatin{Oct}} 2013.
+
+\bibitem{Brodie2016}
+{\textlatin{Brodie, Matthew A. D. and Coppens, Milou J. M. and Lord, Stephen R. and Lovell, Nigel H. and Gschwind, Yves J. and Redmond, Stephen J. and Del Rosario, Michael Benjamin and Wang, Kejia and Sturnieks, Daina L. and Persiani, Michela and Delbaere, Kim}}.
+\newblock {\textlatin{Wearable pendant device monitoring using new wavelet-based methods shows daily life and laboratory gaits are different}}.
+\newblock {\em {\textlatin{Medical \& Biological Engineering \& Computing}}}, 54(4):663--674, {\textlatin{Aug}} 2015.
+
+\bibitem{Achkar2016}
+{\textlatin{Moufawad el Achkar, Christopher and Lenoble-Hoskovec, Constanze and Paraschiv-Ionescu, Anisoara and Major, Kristof and Büla, Christophe and Aminian, Kamiar}}.
+\newblock {\textlatin{Instrumented shoes for activity classification in the elderly}}.
+\newblock {\em {\textlatin{Gait \& Posture}}}, 44:12--17, {\textlatin{Feb}} 2016.
+
+\bibitem{Sardini2010}
+{\textlatin{Sardini, E. and Serpelloni, M.}}
+\newblock {\textlatin{Instrumented wearable belt for wireless health monitoring}}.
+\newblock {\em {\textlatin{Procedia Engineering}}}, 5:580--583, 2010.
+
+\bibitem{Sim2011}
+{\textlatin{Sim, S. Y. and Jeon, H. S. and Chung, G. S. and Kim, S. K. and Kwon, S. J. and Lee, W. K. and Park, K. S.}}
+\newblock {\textlatin{Fall detection algorithm for the elderly using acceleration sensors on the shoes}}.
+\newblock In {\em {\textlatin{2011 Annual International Conference of the IEEE Engineering in Medicine and Biology Society}}}. {\textlatin{IEEE}}, {\textlatin{Aug}} 2011.
+
+\bibitem{Yeo2013}
+{\textlatin{Yeo, Woon-Hong and Kim, Yun-Soung and Lee, Jongwoo and Ameen, Abid and Shi, Luke and Li, Ming and Wang, Shuodao and Ma, Rui and Jin, Sung Hun and Kang, Zhan and Huang, Yonggang and Rogers, John A.}}
+\newblock {\textlatin{Multifunctional Epidermal Electronics Printed Directly Onto the Skin}}.
+\newblock {\em {\textlatin{Advanced Materials}}}, 25(20):2773--2778, {\textlatin{Feb}} 2013.
+
+\bibitem{Imani2016}
+{\textlatin{Imani, Somayeh and Bandodkar, Amay J. and Mohan, A. M. Vinu and Kumar, Rajan and Yu, Shengfei and Wang, Joseph and Mercier, Patrick P.}}
+\newblock {\textlatin{A wearable chemical–electrophysiological hybrid biosensing system for real-time health and fitness monitoring}}.
+\newblock {\em {\textlatin{Nature Communications}}}, 7(1), {\textlatin{May}} 2016.
+
+\bibitem{Bian2014}
+{\textlatin{Bian, Zuguang and Song, Jizhou and Webb, R. Chad and Bonifas, Andrew P. and Rogers, John A. and Huang, Yonggang}}.
+\newblock {\textlatin{Thermal analysis of ultrathin, compliant sensors for characterization of the human skin}}.
+\newblock {\em {\textlatin{RSC Advances}}}, 4(11):5694, 2014.
+
+\bibitem{Webb2013}
+{\textlatin{Webb, R. Chad and Bonifas, Andrew P. and Behnaz, Alex and Zhang, Yihui and Kim, Yun-Soung and Yeo, Woon-Hong and Park, Jae Suk and Song, Jizhou and Li, Yuhang and Huang, Yonggang and Gorbach, Alexander M. and Rogers, John A.}}
+\newblock {\textlatin{Erratum: Ultrathin conformal devices for precise and continuous thermal characterization of human skin}}.
+\newblock {\em {\textlatin{Nature Materials}}}, 12(11):1078--1078, {\textlatin{Oct}} 2013.
+
+\bibitem{Juhl2010}
+{\textlatin{Juhl, Claus B. and Højlund, Kurt and Elsborg, Rasmus and Poulsen, Mikael Kjær and Selmar, Peter E. and Holst, Jens Juul and Christiansen, Claus and Beck-Nielsen, Henning}}.
+\newblock {\textlatin{Automated detection of hypoglycemia-induced EEG changes recorded by subcutaneous electrodes in subjects with type 1 diabetes—The brain as a biosensor}}.
+\newblock {\em {\textlatin{Diabetes Research and Clinical Practice}}}, 88(1):22--28, {\textlatin{Apr}} 2010.
+
+\bibitem{McCaffrey2008}
+\en{Colm McCaffrey and Olivier Chevalerias and Cian O{\textquotesingle}Mathuna and Karen Twomey}.
+\newblock \en{Swallowable-Capsule Technology}.
+\newblock {\em \en{{IEEE} Pervasive Computing}}, 7(1):23--29, \en{Jan} 2008.
+
+\bibitem{Broekens2009}
+{\textlatin{Broekens, J. and Heerink, M. and Rosendal, H.}}
+\newblock {\textlatin{Assistive social robots in elderly care: a review}}.
+\newblock {\em {\textlatin{Gerontechnology}}}, 8(2), {\textlatin{Apr}} 2009.
+
+\bibitem{Robinson2014}
+{\textlatin{Robinson, Hayley and MacDonald, Bruce and Broadbent, Elizabeth}}.
+\newblock {\textlatin{The Role of Healthcare Robots for Older People at Home: A Review}}.
+\newblock {\em {\textlatin{International Journal of Social Robotics}}}, 6(4):575--591, {\textlatin{Jul}} 2014.
+
+\bibitem{Spenko2006}
+{\textlatin{Spenko, M. and Yu, Haoyong and Dubowsky, S.}}
+\newblock {\textlatin{Robotic Personal Aids for Mobility and Monitoring for the Elderly}}.
+\newblock {\em {\textlatin{IEEE Transactions on Neural Systems and Rehabilitation Engineering}}}, 14(3):344--351, {\textlatin{Sep}} 2006.
+
+\bibitem{OSullivan2015}
+{\textlatin{O'Sullivan, Leonard and Power, Valerie and Virk, Gurvinder and Masud, Nauman and Haider, Usman and Christensen, Simon and Bai, Shaoping and Cuypers, Ludo and D'Hav{\'{e}}, Michel and Vonck, Kristl}}.
+\newblock {\textlatin{End User Needs Elicitation for a Full-body Exoskeleton to Assist the Elderly}}.
+\newblock {\em {\textlatin{Procedia Manufacturing}}}, 3:1403--1409, 2015.
+
+\bibitem{Johnson2006}
+{\textlatin{Johnson, M.J. and Wisneski, K.J. and Anderson, J. and Nathan, D. and Smith, R.O.}}
+\newblock {\textlatin{Development of ADLER: The Activities of Daily Living Exercise Robot}}.
+\newblock In {\em {\textlatin{The First IEEE/RAS-EMBS International Conference on Biomedical Robotics and Biomechatronics, 2006. BioRob 2006.}}} {\textlatin{IEEE}}, 2006.
+
+\bibitem{Pineau2003}
+{\textlatin{Pineau, Joelle and Montemerlo, Michael and Pollack, Martha and Roy, Nicholas and Thrun, Sebastian}}.
+\newblock {\textlatin{Towards robotic assistants in nursing homes: Challenges and results}}.
+\newblock {\em {\textlatin{Robotics and Autonomous Systems}}}, 42(3-4):271--281, {\textlatin{Mar}} 2003.
+
+\bibitem{Pollack2002}
+{\textlatin{Pollack, Martha and Brown, Laura and Colbry, Dirk and Orosz, Cheryl and Peintner, Bart and Ramakrishnan, Sailesh and Engberg, Sandra and Matthews, Judith and Dunbar-Jacob, Jacqueline and Mccarthy, Colleen and Montemerlo, Michael and Pineau, Joelle and Roy, Nicholas}}.
+\newblock {\textlatin{Pearl: A Mobile Robotic Assistant for the Elderly}}.
+\newblock {\textlatin{Jun}} 2002.
+
+\bibitem{Hans2002}
+{\textlatin{Hans, M. and Graf, B. and Schraft, R.D.}}
+\newblock {\textlatin{Robotic home assistant Care-O-bot: past-present-future}}.
+\newblock In {\em {\textlatin{Proceedings. 11th IEEE International Workshop on Robot and Human Interactive Communication}}}. {\textlatin{IEEE}}, 2002.
+
+\bibitem{Kittman2015}
+{\textlatin{Kittmann, Ralf and Fröhlich, Tim and Schäfer, Johannes and Reiser, Ulrich and Weisshardt, Florian and Haug, Andreas}}.
+\newblock {\textlatin{Let me Introduce Myself: I am Care-O-bot 4, a Gentleman Robot}}.
+\newblock {\textlatin{09}} 2015.
+
+\bibitem{Reiser2013}
+{\textlatin{Reiser, Ulrich and Jacobs, Theo and Arbeiter, Georg and Parlitz, Christopher and Dautenhahn, Kerstin}}.
+\newblock {\textlatin{Care-O-bot\textregistered~3 — Vision of a Robot Butler}}.
+\newblock In {\em {\textlatin{Your Virtual Butler}}}, pages 97--116. {\textlatin{Springer Berlin Heidelberg}}, 2013.
+
+\bibitem{Mukai2010}
+{\textlatin{Mukai, T. and Hirano, S. and Nakashima, H. and Kato, Y. and Sakaida, Y. and Guo, S. and Hosoe, S.}}
+\newblock {\textlatin{Development of a nursing-care assistant robot RIBA that can lift a human in its arms}}.
+\newblock {\textlatin{2010 IEEE/RSJ International Conference on Intelligent Robots and Systems}}, {\textlatin{Oct}} 2010.
+
+\bibitem{Kompai2017}
+{\textlatin{Kompa\"i Robotics}}.
+\newblock {\textlatin{Kompai Robots}}.
+\newblock {\textlatin{\url{https://www.kompai.com}}}, 2017.
+\newblock [Προσπελάστηκε 7 Μαρτίου 2020].
+
+\bibitem{Wada2005}
+{\textlatin{Wada, K. and Shibata, T. and Saito, T. and Sakamoto, K. and Tanie, K.}}
+\newblock {\textlatin{Psychological and Social Effects of One Year Robot Assisted Activity on Elderly People at a Health Service Facility for the Aged}}, 2005.
+
+\bibitem{Kanamori2002}
+\en{Masao Kanamori and Mizue Suzuki and Misao Tanaka}.
+\newblock \en{Maintenance and Improvement of Quality of Life among Elderly Patients Using a Pet-Type Robot.}
+\newblock {\em \en{Nippon Ronen Igakkai Zasshi. Japanese Journal of Geriatrics}}, 39(2):214--218, 2002.
+
+\bibitem{Tamura2004}
+{\textlatin{Tamura, T. and Yonemitsu, S. and Itoh, A. and Oikawa, D. and Kawakami, A. and Higashi, Y. and Fujimooto, T. and Nakajima, K.}}
+\newblock {\textlatin{Is an Entertainment Robot Useful in the Care of Elderly People With Severe Dementia?}}
+\newblock {\em {\textlatin{The Journals of Gerontology Series A: Biological Sciences and Medical Sciences}}}, 59(1):M83--M85, {\textlatin{Jan}} 2004.
+
+\bibitem{Helianthe2017}
+{\textlatin{Kort, Helianthe and Huisman, Chantal}}.
+\newblock {\textlatin{Care Robot ZORA in Dutch Nursing Homes; An Evaluation Study}}.
+\newblock {\em {\textlatin{Studies in Health Technology and Informatics}}}, 242({\textlatin{Harnessing the Power of Technology to Improve Lives}}):527--534, 2017.
+
+\bibitem{Melkas2016}
+{\textlatin{Melkas, Helin{\"a} and Hennala, Lea and Pekkarinen, Satu}}.
+\newblock {\textlatin{Human impact assessment of robot implementation in Finnish elderly care}}.
+\newblock In {\em {\textlatin{}}}, 2006.
+
+\bibitem{Parviainen2016}
+{\textlatin{Parviainen, Jaana and Van Aerschot, Lina and S\"arkikoski, Tuomo and Pekkarinen, Satu and Melkas, Helin\"a and Hennala, Lea}}.
+\newblock {\textlatin{Motions with Emotions?}}
+\newblock In {\em {\textlatin{Robophilosophy/TRANSOR}}}, pages 210--219, 2016.
+
+\bibitem{Bettini2010}
+{\textlatin{Bettini, Claudio and Brdiczka, Oliver and Henricksen, Karen and Indulska, Jadwiga and Nicklas, Daniela and Ranganathan, Anand and Riboni, Daniele}}.
+\newblock {\textlatin{A survey of context modelling and reasoning techniques}}.
+\newblock {\em {\textlatin{Pervasive and Mobile Computing}}}, 6(2):161--180, {\textlatin{Apr}} 2010.
+
+\bibitem{Ghayvat2015}
+{\textlatin{Ghayvat, Hemant and Liu, Jie and Mukhopadhyay, Subhas Chandra and Gui, Xiang}}.
+\newblock {\textlatin{Wellness Sensor Networks: A Proposal and Implementation for Smart Home for Assisted Living}}.
+\newblock {\em {\textlatin{IEEE Sensors Journal}}}, 15(12):7341--7348, {\textlatin{Dec}} 2015.
+
+\bibitem{Memon2014}
+{\textlatin{Memon, Mukhtiar and Wagner, Stefan and Pedersen, Christian and Beevi, Femina and Hansen, Finn}}.
+\newblock {\textlatin{Ambient Assisted Living Healthcare Frameworks, Platforms, Standards, and Quality Attributes}}.
+\newblock {\em {\textlatin{Sensors}}}, 14(3):4312--4341, {\textlatin{Mar}} 2014.
+
+\bibitem{Sun2009}
+{\textlatin{Sun, Hong and De Florio, Vincenzo and Gui, Ning and Blondia, Chris}}.
+\newblock {\textlatin{Promises and Challenges of Ambient Assisted Living Systems}}.
+\newblock 2009.
+
+\bibitem{Mataric2017}
+{\textlatin{Matari{\'{c}}, Maja J.}}
+\newblock {\textlatin{Socially assistive robotics: Human augmentation versus automation}}.
+\newblock {\em {\textlatin{Science Robotics}}}, 2(4), {\textlatin{Mar}} 2017.
+
+\bibitem{Salem2015}
+{\textlatin{Ben Salem, Maha and Dautenhahn, Kerstin}}.
+\newblock {\textlatin{Evaluating Trust and Safety in HRI : Practical Issues and Ethical Challenges}}.
+\newblock 2015.
+
+\bibitem{Reeder2013}
+{\textlatin{Reeder, Blaine and Meyer, Ellen and Lazar, Amanda and Chaudhuri, Shomir and Thompson, Hilaire J. and Demiris, George}}.
+\newblock {\textlatin{Framing the evidence for health smart homes and home-based consumer health technologies as a public health intervention for independent aging: A systematic review}}.
+\newblock {\em {\textlatin{International Journal of Medical Informatics}}}, 82(7):565--579, {\textlatin{Jul}} 2013.
+
+\bibitem{Vimarlund2014}
+{\textlatin{Wass, S. and Vimarlund, V.}}
+\newblock {\textlatin{Big Data, Smart Homes and Ambient Assisted Living}}.
+\newblock {\em {\textlatin{Yearbook of Medical Informatics}}}, 23(01):143--149, {\textlatin{Aug}} 2014.
+
+\bibitem{Manetti2017}
+{\textlatin{Manetti, S. and Orsini, N. and Turchetti, G.}}
+\newblock {\textlatin{Early health economic models of new ambient assisted living (AAL) devices for falls prevention}}.
+\newblock {\em {\textlatin{European Journal of Public Health}}}, 27, {\textlatin{Oct}} 2017.
+
+\bibitem{Eisma2004}
+{\textlatin{Eisma, R. and Dickinson, A. and Goodman, J. and Syme, A. and Tiwari, L. and Newell, A. F.}}
+\newblock {\textlatin{Early user involvement in the development of information technology-related products for older people}}.
+\newblock {\em {\textlatin{Universal Access in the Information Society}}}, 3(2):131--140, {\textlatin{Jun}} 2004.
+
+\bibitem{Ostlund2005}
+{\textlatin{Ostlund, B.}}
+\newblock {\textlatin{Design Paradigms and Misunderstood Technology: The Case of Older Users}}.
+\newblock In {\em {\textlatin{Young technologies in old hands: an international view on senior citizen's utilization of ICT}}}, pages 25--39. {\textlatin{DJOFPublishing}}, 2005.
+
+\bibitem{Peine2014}
+{\textlatin{Peine, Alexander and Rollwagen, Ingo and Neven, Louis}}.
+\newblock {\textlatin{The rise of the "innosumer"—Rethinking older technology users}}.
+\newblock {\em {\textlatin{Technological Forecasting and Social Change}}}, 82:199--214, {\textlatin{Feb}} 2014.
+
+\bibitem{Vines2015}
+{\textlatin{Vines, John and Pritchard, Gary and Wright, Peter and Olivier, Patrick and Brittain, Katie}}.
+\newblock {\textlatin{An Age-Old Problem}}.
+\newblock {\em {\textlatin{ACM Transactions on Computer-Human Interaction}}}, 22(1):1--27, {\textlatin{Feb}} 2015.
+
+\bibitem{Piau2013}
+{\textlatin{Piau, Antoine and Campo, E. and Rumeau, P. and Vellas, B. and Nourhashemi, F.}}
+\newblock {\textlatin{Aging society and gerontechnology: A solution for an independent living?}}
+\newblock {\em {\textlatin{The journal of nutrition, health \& aging}}}, 18(1):97--112, {\textlatin{Jul}} 2013.
+
+\bibitem{Martin2008}
+{\textlatin{Martin, Suzanne and Kelly, Greg and Kernohan, W George and McCreight, Bernadette and Nugent, Christopher}}.
+\newblock {\textlatin{Smart home technologies for health and social care support}}.
+\newblock {\em {\textlatin{Cochrane Database of Systematic Reviews}}}, {\textlatin{Oct}} 2008.
+
+\bibitem{Morris2013}
+{\textlatin{Morris, Meg and Adair, Brooke and Miller, Kimberly and Ozanne, Elizabeth and Hampson, Ralph and Pearce, Alan and Santamaria, Nick and Viegas, L and Long, Maureen and Said, Catherine}}.
+\newblock {\textlatin{Smart-Home Technologies to Assist Older People to Live Well at Home}}.
+\newblock {\em {\textlatin{Journal of Aging Science}}}, 1:101, {\textlatin{01}} 2013.
+
+\bibitem{KlirYuan}
+{\textlatin{Klir, George J. and Yuan, Bo}}.
+\newblock {\em {\textlatin{Fuzzy Sets and Fuzzy Logic: Theory and Applications}}}.
+\newblock {\textlatin{Prentice-Hall, Inc.}}, 1995.
+
+\bibitem{Nguyen}
+{\textlatin{Nguyen, Hung and Walker, Elbert}}.
+\newblock {\textlatin{A First Course in Fuzzy Logic, Third Edition}}.
+\newblock 2005.
+
+\bibitem{Nath2007}
+{\textlatin{Nath, Suman and Liu, Jie and Zhao, Feng}}.
+\newblock {\textlatin{SensorMap for Wide-Area Sensor Webs}}.
+\newblock {\em {\textlatin{Computer}}}, 40(7):90--93, {\textlatin{Jul}} 2007.
+
+\bibitem{Truong2012}
+{\textlatin{Truong, Cuong and Romer, Kay and Chen, Kai}}.
+\newblock {\textlatin{Fuzzy-based sensor search in the Web of Things}}.
+\newblock In {\em {\textlatin{2012 3rd IEEE International Conference on the Internet of Things}}}. {\textlatin{IEEE}}, {\textlatin{Oct}} 2012.
+
+\bibitem{Truong2013}
+{\textlatin{Truong, Cuong and Romer, Kay}}.
+\newblock {\textlatin{Content-based sensor search for the Web of Things}}.
+\newblock In {\em {\textlatin{2013 IEEE Global Communications Conference (GLOBECOM)}}}. {\textlatin{IEEE}}, {\textlatin{Dec}} 2013.
+
+\bibitem{roggen2010}
+{\textlatin{Roggen, Daniel and Calatroni, Alberto and Rossi, Mirco and Holleczek, Thomas and Förster, Kilian and Tröster, Gerhard and Lukowicz, Paul and Bannach, David and Pirkl, Gerald and Ferscha, Alois and others}}.
+\newblock {\textlatin{Collecting complex activity datasets in highly rich networked sensor environments}}.
+\newblock In {\em {\textlatin{2010 Seventh international conference on networked sensing systems (INSS)}}}, pages 233--240. {\textlatin{IEEE}}, 2010.
+
+\bibitem{Chavarriaga2013}
+{\textlatin{Chavarriaga, Ricardo and Sagha, Hesam and Calatroni, Alberto and Digumarti, Sundara Tejaswi and Tröster, Gerhard and Millán, José del R and Roggen, Daniel}}.
+\newblock {\textlatin{The Opportunity challenge: A benchmark database for on-body sensor-based activity recognition}}.
+\newblock {\em {\textlatin{Pattern Recognition Letters}}}, 34(15):2033--2042, 2013.
+
+\bibitem{Reiss2012}
+{\textlatin{Reiss, Attila and Stricker, Didier}}.
+\newblock {\textlatin{Introducing a New Benchmarked Dataset for Activity Monitoring}}.
+\newblock In {\em {\textlatin{Proceedings of the 2012 16th International Symposium on Wearable Computers}}}, pages 108--109. {\textlatin{IEEE}}, 2012.
+
+\bibitem{Reiss2012creating}
+{\textlatin{Reiss, Attila and Stricker, Didier}}.
+\newblock {\textlatin{Creating and Benchmarking a New Dataset for Physical Activity Monitoring}}.
+\newblock In {\em {\textlatin{Proceedings of the 5th International Conference on PErvasive Technologies Related to Assistive Environments}}}, pages 1--8. {\textlatin{ACM}}, 2012.
+
+\bibitem{Chen2012sensor}
+{\textlatin{Chen, Liming and Hoey, Jesse and Nugent, Chris D and Cook, Diane J and Yu, Zhiwen}}.
+\newblock {\textlatin{Sensor-based activity recognition}}.
+\newblock {\em {\textlatin{IEEE Transactions on Systems, Man, and Cybernetics, Part C}}}, 42(6):790--808, 2012.
+
+\bibitem{Kaye2015}
+{\textlatin{Kaye, Jane and Whitley, Edgar A and Lund, David and Morrison, Michael and Teare, Harriet and Melham, Karen}}.
+\newblock {\textlatin{Dynamic consent: a patient interface for twenty-first century research networks}}.
+\newblock {\em {\textlatin{European Journal of Human Genetics}}}, 23(2):141--146, 2015.
+
+\end{thebibliography}
