@@ -9,6 +9,20 @@ A level-1 auxiliary file: chapters/chapter3.aux
 A level-1 auxiliary file: chapters/chapter4.aux
 A level-1 auxiliary file: chapters/chapter5.aux
 Database file #1: bib/bibliography.bib
+Warning--entry type for "aware_home" isn't style-file defined
+--line 59 of file bib/bibliography.bib
+Warning--entry type for "cisco2019" isn't style-file defined
+--line 242 of file bib/bibliography.bib
+Warning--entry type for "foster" isn't style-file defined
+--line 322 of file bib/bibliography.bib
+Warning--entry type for "Gartner:HC" isn't style-file defined
+--line 343 of file bib/bibliography.bib
+Warning--entry type for "gartner2016" isn't style-file defined
+--line 351 of file bib/bibliography.bib
+Warning--entry type for "mck2016" isn't style-file defined
+--line 671 of file bib/bibliography.bib
+Warning--entry type for "rfc7452" isn't style-file defined
+--line 957 of file bib/bibliography.bib
 Warning--empty journal in WHO
 Warning--empty publisher in broek
 Warning--empty journal in morschhauser2006healthy
@@ -19,16 +33,16 @@ Warning--empty booktitle in Salem2015
 Warning--empty journal in Nguyen
 You've used 126 entries,
             1791 wiz_defined-function locations,
-            1233 strings with 36183 characters,
-and the built_in function-call counts, 25512 in all, are:
-= -- 2526
+            1216 strings with 35122 characters,
+and the built_in function-call counts, 25390 in all, are:
+= -- 2495
 > -- 498
 < -- 14
 + -- 250
 - -- 124
 * -- 1499
-:= -- 3841
-add.period$ -- 407
+:= -- 3810
+add.period$ -- 395
 call.type$ -- 126
 change.case$ -- 119
 chr.to.int$ -- 0
@@ -36,17 +50,17 @@ cite$ -- 134
 duplicate$ -- 1258
 empty$ -- 2903
 format.name$ -- 124
-if$ -- 5811
+if$ -- 5780
 int.to.chr$ -- 0
 int.to.str$ -- 126
 missing$ -- 120
-newline$ -- 643
+newline$ -- 631
 num.names$ -- 124
-pop$ -- 413
+pop$ -- 420
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 494
+skip$ -- 506
 stack$ -- 0
 substring$ -- 1896
 swap$ -- 250
@@ -57,5 +71,5 @@ type$ -- 0
 warning$ -- 8
 while$ -- 284
 width$ -- 129
-write$ -- 1376
-(There were 8 warnings)
+write$ -- 1352
+(There were 15 warnings)

@@ -2,9 +2,7 @@
 
 \bibitem{Gartner:HC}
 {\textlatin{Gartner, Inc.}}
-\newblock {\textlatin{Hype cycle}}.
-\newblock {\textlatin{\url{https://blogs.gartner.com/smarterwithgartner/files/2018/08/PR_490866_5_Trends_in_the_Emerging_Tech_Hype_Cycle_2018_Hype_Cycle.png}}}, 2018.
-\newblock [\foreignlanguage{greek}{Προσπελάστηκε 20 Ιουνίου 2019}].
+\newblock {\textlatin{Hype Cycle}}, 2018.
 
 \bibitem{iotnumb}
 {\textlatin{Straw, John}}.
@@ -50,7 +48,7 @@
 \bibitem{rashidi2012survey}
 {\textlatin{Rashidi, Parisa and Mihailidis, Alex}}.
 \newblock {\textlatin{A survey on ambient-assisted living tools for older adults}}.
-\newblock {\em {\textlatin{IEEE journal of biomedical and health informatics}}}, 17(3):579--590, 2012.
+\newblock {\em {\textlatin{IEEE Journal of Biomedical and Health Informatics}}}, 17(3):579--590, 2012.
 
 \bibitem{KlirYuan1995}
 {\textlatin{Klir, George J. and Yuan, Bo}}.
@@ -79,21 +77,15 @@
 
 \bibitem{cisco2019}
 {\textlatin{Cisco}}.
-\newblock {\textlatin{Internet of Things At a Glance}}.
-\newblock {\textlatin{\url{https://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/white-paper-c11-741490.html}}}, 2019.
-\newblock [\foreignlanguage{greek}{Προσπελάστηκε 22 Ιουνίου 2019}].
+\newblock {\textlatin{Internet of Things At a Glance}}, 2019.
 
 \bibitem{gartner2016}
 {\textlatin{Gartner, Inc.}}
-\newblock {\textlatin{Gartner Says by 2020, More Than Half of Major New Business Processes and Systems Will Incorporate Some Element of the Internet of Things}}.
-\newblock {\textlatin{\url{https://www.gartner.com/en/newsroom/press-releases/2016-01-14-gartner-says-by-2020-more-than-half-of-major-new-business-processes-and-systems-will-incorporate-some-element-of-the-internet-of-things}}}, 2016.
-\newblock [\foreignlanguage{greek}{Προσπελάστηκε 21 Ιουνίου 2019}].
+\newblock {\textlatin{Gartner Says by 2020, More Than Half of Major New Business Processes and Systems Will Incorporate Some Element of the Internet of Things}}, 2016.
 
 \bibitem{mck2016}
 {\textlatin{Bauer, H. and Patel, M. and Veira, J.}}
-\newblock {\textlatin{The Internet of things: Sizing up the opportunity}}.
-\newblock {\textlatin{\url{http://www.mckinsey.com/industries/high-tech/ our-insights/the-internet-of-things-sizing-up-the-opportunity}}}, 2016.
-\newblock [\foreignlanguage{greek}{Προσπελάστηκε 21 Ιουνίου 2019}].
+\newblock {\textlatin{The Internet of Things: Sizing up the Opportunity}}, 2016.
 
 \bibitem{ATZORI20102787}
 {\textlatin{Atzori, Luigi and Iera, Antonio and Morabito, Giacomo}}.
@@ -114,8 +106,8 @@
 
 \bibitem{rfc7452}
 {\textlatin{Tschofenig, H. and Arkko, J. and Thaler, D. and McPherson, D.}}
-\newblock {\textlatin{Architectural Considerations in Smart Object Networking}}.
-\newblock {\textlatin{\url{https://tools.ietf.org/html/rfc7452}}}, {\textlatin{March}} 2015.
+\newblock {\textlatin{Architectural Considerations in Smart Object Networking}}, {\textlatin{Mar}} 2015.
+\newblock RFC 7452.
 
 \bibitem{iotcloud1}
 {\textlatin{Botta, A. and de Donato, W. and Persico, V. and Pescapé, A.}}
@@ -129,9 +121,7 @@
 
 \bibitem{foster}
 {\textlatin{Foster, T.}}
-\newblock {\textlatin{Regulation of the Internet of Things}}.
-\newblock {\textlatin{\url{https://www.scl.org/articles/3685-regulation-of-the-internet-of-things}}}, 2017.
-\newblock [\foreignlanguage{greek}{Προσπελάστηκε 25 Ιουνίου 2019}].
+\newblock {\textlatin{Regulation of the Internet of Things}}, 2017.
 
 \bibitem{borgia2014}
 {\textlatin{Borgia, Eleonora}}.
@@ -149,9 +139,9 @@
 \newblock {\em {\textlatin{IEEE Transactions on Industrial Informatics}}}, 10(4):2233--2243, 2014.
 
 \bibitem{iotagric}
-\en{Zhang L., K. Ibibia, W. Dabipi and L. Brown}.
-\newblock \en{Internet of Things Applications in Agriculture}.
-\newblock {\em \en{In Internet of Things A to Z}}, 2018.
+{\textlatin{Zhang L., K. Ibibia, W. Dabipi and L. Brown}}.
+\newblock {\textlatin{Internet of Things Applications in Agriculture}}.
+\newblock {\em {\textlatin{In Internet of Things A to Z}}}, 2018.
 
 \bibitem{iotcity}
 {\textlatin{Anthopoulos, L. and Janssen, M. and Weerakkody, V.}}
@@ -184,9 +174,9 @@
 \newblock {\textlatin{01}} 2010.
 
 \bibitem{Queiros2013}
-\en{Alexandra Queir{\'{o}}s and Anabela Silva and Joaquim Alvarelh{\~{a}}o and Nelson Pacheco Rocha and Ant{\'{o}}nio Teixeira}.
-\newblock \en{Usability, accessibility and ambient-assisted living: a systematic literature review}.
-\newblock {\em \en{Universal Access in the Information Society}}, 14(1):57--66, \en{Oct} 2015.
+{\textlatin{Alexandra Queirós and Anabela Silva and Joaquim Alvarelhão and Nelson Pacheco Rocha and António Teixeira}}.
+\newblock {\textlatin{Usability, accessibility and ambient-assisted living: a systematic literature review}}.
+\newblock {\em {\textlatin{Universal Access in the Information Society}}}, 14(1):57--66, {\textlatin{Oct}} 2015.
 
 \bibitem{Peek2014}
 {\textlatin{Peek, Sebastiaan T.M. and Wouters, Eveline J.M. and van Hoof, Joost and Luijkx, Katrien G. and Boeije, Hennie R. and Vrijhoef, Hubertus J.M.}}
@@ -224,9 +214,9 @@
 \newblock {\em {\textlatin{The International Journal of Aging and Human Development}}}, 56(4):269--306, {\textlatin{Jun}} 2003.
 
 \bibitem{GABRIEL2004}
-\en{Zahava Gabriel and Ann Bowling}.
-\newblock \en{Quality of life from the perspectives of older people}.
-\newblock {\em \en{Ageing and Society}}, 24(5):675--691, \en{Aug} 2004.
+{\textlatin{Zahava Gabriel and Ann Bowling}}.
+\newblock {\textlatin{Quality of life from the perspectives of older people}}.
+\newblock {\em {\textlatin{Ageing and Society}}}, 24(5):675--691, {\textlatin{Aug}} 2004.
 
 \bibitem{Luanaigh2008}
 {\textlatin{{\'O} Luanaigh, Conor and Lawlor, Brian A.}}
@@ -249,9 +239,9 @@
 \newblock 2006.
 
 \bibitem{dubois2019extending}
-\en{Dubois, Hans et al.}
-\newblock \en{Extending working lives through flexible retirement schemes}.
-\newblock In {\em \en{Policies for an Ageing Workforce}}, pages 32--37. \en{CEPS Centre for European Policy Studies}, 2019.
+{\textlatin{Dubois, Hans et al.}}
+\newblock {\textlatin{Extending working lives through flexible retirement schemes}}.
+\newblock In {\em {\textlatin{Policies for an Ageing Workforce}}}, pages 32--37. {\textlatin{CEPS Centre for European Policy Studies}}, 2019.
 
 \bibitem{Liu2016}
 {\textlatin{Liu, Lili and Stroulia, Eleni and Nikolaidis, Ioanis and Miguel-Cruz, Antonio and Rincon, Adriana Rios}}.
@@ -264,10 +254,8 @@
 \newblock {\em {\textlatin{Yearbook of medical informatics}}}, pages 33--40, 2008.
 
 \bibitem{aware_home}
-{\textlatin{Georgia Instiute of Technology}}.
-\newblock {\textlatin{The Aware Home Research Initiative(AHRI)}}.
-\newblock {\textlatin{\url{http://www.awarehome.gatech.edu/}}}, 2019.
-\newblock [\foreignlanguage{greek}{Προσπελάστηκε 3 Μαρτίου 2020}].
+{\textlatin{Georgia Institute of Technology}}.
+\newblock {\textlatin{The Aware Home Research Initiative (AHRI)}}, 2019.
 
 \bibitem{Adlam2004}
 {\textlatin{Adlam, T. and Faulkner, R. and Orpwood, R. and Jones, K. and Macijauskiene, J. and Budraitiene, A.}}
@@ -355,9 +343,9 @@
 \newblock {\em {\textlatin{IEEE Transactions on Information Technology in Biomedicine}}}, 14(3):711--717, {\textlatin{May}} 2010.
 
 \bibitem{Pandian2008}
-\en{P.S. Pandian and K. Mohanavelu and K.P. Safeer and T.M. Kotresh and D.T. Shakunthala and Parvati Gopal and V.C. Padaki}.
-\newblock \en{Smart Vest: Wearable multi-parameter remote physiological monitoring system}.
-\newblock {\em \en{Medical Engineering {\&} Physics}}, 30(4):466--477, \en{May} 2008.
+{\textlatin{P.S. Pandian and K. Mohanavelu and K.P. Safeer and T.M. Kotresh and D.T. Shakunthala and Parvati Gopal and V.C. Padaki}}.
+\newblock {\textlatin{Smart Vest: Wearable multi-parameter remote physiological monitoring system}}.
+\newblock {\em {\textlatin{Medical Engineering \& Physics}}}, 30(4):466--477, {\textlatin{May}} 2008.
 
 \bibitem{Chang2013}
 {\textlatin{Cheng, Jingyuan and Amft, Oliver and Bahle, Gernot and Lukowicz, Paul}}.
@@ -410,9 +398,9 @@
 \newblock {\em {\textlatin{Diabetes Research and Clinical Practice}}}, 88(1):22--28, {\textlatin{Apr}} 2010.
 
 \bibitem{McCaffrey2008}
-\en{Colm McCaffrey and Olivier Chevalerias and Cian O{\textquotesingle}Mathuna and Karen Twomey}.
-\newblock \en{Swallowable-Capsule Technology}.
-\newblock {\em \en{{IEEE} Pervasive Computing}}, 7(1):23--29, \en{Jan} 2008.
+{\textlatin{Colm McCaffrey and Olivier Chevalerias and Cian O'Mathuna and Karen Twomey}}.
+\newblock {\textlatin{Swallowable-Capsule Technology}}.
+\newblock {\em {\textlatin{IEEE Pervasive Computing}}}, 7(1):23--29, {\textlatin{Jan}} 2008.
 
 \bibitem{Broekens2009}
 {\textlatin{Broekens, J. and Heerink, M. and Rosendal, H.}}
@@ -481,9 +469,9 @@
 \newblock In {\em {\textlatin{Proceedings of the 2005 IEEE International Conference on Robotics and Automation}}}. {\textlatin{IEEE}}, 2005.
 
 \bibitem{Kanamori2002}
-\en{Masao Kanamori and Mizue Suzuki and Misao Tanaka}.
-\newblock \en{Maintenance and Improvement of Quality of Life among Elderly Patients Using a Pet-Type Robot.}
-\newblock {\em \en{Nippon Ronen Igakkai Zasshi. Japanese Journal of Geriatrics}}, 39(2):214--218, 2002.
+{\textlatin{Masao Kanamori and Mizue Suzuki and Misao Tanaka}}.
+\newblock {\textlatin{Maintenance and Improvement of Quality of Life among Elderly Patients Using a Pet-Type Robot}}.
+\newblock {\em {\textlatin{Nippon Ronen Igakkai Zasshi. Japanese Journal of Geriatrics}}}, 39(2):214--218, 2002.
 
 \bibitem{Tamura2004}
 {\textlatin{Tamura, T. and Yonemitsu, S. and Itoh, A. and Oikawa, D. and Kawakami, A. and Higashi, Y. and Fujimooto, T. and Nakajima, K.}}
