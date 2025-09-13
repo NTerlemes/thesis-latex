@@ -41,7 +41,7 @@
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Σχηματική απεικόνιση των διάφορων εργαλείων της ένδυτης τεχνολογίας}}{40}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Σχηματική απεικόνιση των διάφορων εργαλείων της ένδυτης τεχνολογίας}}{41}{}%
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Σχηματική απεικόνιση των κατηγοριών της υποβοηθητικής ρομποτικής}}{43}{}%
@@ -55,7 +55,7 @@
 \addvspace {10\p@ }
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces (\textlatin {a}) Παράδειγμα αυστηρού (\textlatin {crisp}) συνόλου, (\textlatin {b}) Παράδειγμα ασαφούς συνόλου}}{52}{}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces (\textlatin {a}) Παράδειγμα αυστηρού (\textlatin {crisp}) συνόλου, (\textlatin {b}) Παράδειγμα ασαφούς συνόλου.}}{52}{}%
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
@@ -69,6 +69,10 @@
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {greek}{}\relax 
+\babel@toc {greek}{}\relax 
 \addvspace {10\p@ }
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
@@ -76,13 +80,13 @@
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Διαδικασία προεπεξεργασίας χρονοσειρών αισθητήρων. Απεικονίζεται η πλήρης αλυσίδα από τα ακατέργαστα σήματα του συνόλου \foreignlanguage {english}{OPPORTUNITY} μέσω κανονικοποίησης \foreignlanguage {english}{min-max} στην επικαλυπτόμενη παραθυροποίηση με απόδοση ετικετών βάσει πλειοψηφικού κανόνα.}}{73}{}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Διαδικασία προεπεξεργασίας χρονοσειρών αισθητήρων. Απεικονίζεται η πλήρης αλυσίδα από τα ακατέργαστα σήματα του συνόλου \foreignlanguage {english}{OPPORTUNITY} μέσω κανονικοποίησης \foreignlanguage {english}{min-max} στην επικαλυπτόμενη παραθυροποίηση με απόδοση ετικετών βάσει πλειοψηφικού κανόνα.}}{77}{}%
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Διαστάσεις δεδομένων στην προσέγγιση ανά αισθητήρα, από τα αρχικά σήματα (\foreignlanguage {english}{M×T}) έως τις τελικές \foreignlanguage {english}{membership functions} (\foreignlanguage {english}{N×M×μ(x)}). Όπου \foreignlanguage {english}{M}: αριθμός αισθητήρων, \foreignlanguage {english}{T}: χρονικά δείγματα, \foreignlanguage {english}{s}: μέγεθος παραθύρου, \foreignlanguage {english}{N}: αριθμός παραθύρων, \foreignlanguage {english}{μ(x)}: \foreignlanguage {english}{membership function values}}}{76}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Διαστάσεις δεδομένων στην προσέγγιση ανά αισθητήρα, από τα αρχικά σήματα (\foreignlanguage {english}{M×T}) έως τις τελικές \foreignlanguage {english}{membership functions} (\foreignlanguage {english}{N×M×μ(x)}). Όπου \foreignlanguage {english}{M}: αριθμός αισθητήρων, \foreignlanguage {english}{T}: χρονικά δείγματα, \foreignlanguage {english}{s}: μέγεθος παραθύρου, \foreignlanguage {english}{N}: αριθμός παραθύρων, \foreignlanguage {english}{μ(x)}: \foreignlanguage {english}{membership function values}}}{80}{}%
 \babel@toc {greek}{}\relax 
 \babel@toc {greek}{}\relax 
-\babel@toc {greek}{}\relax 
+\babel@toc {english}{}\relax 
 \babel@toc {greek}{}\relax 

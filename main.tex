@@ -32,6 +32,10 @@
 \usepackage{booktabs}
 \usepackage{longtable}
 
+% Fix fancyhdr headheight warning
+\setlength{\headheight}{14.5pt}
+\addtolength{\topmargin}{-0.5pt}
+
 \bibliographystyle{unsrt}
 
 \newindex{default}{idx}{ind}{Ευρετήριο όρων}
@@ -128,5 +132,7 @@
 \include{chapters/chapter4}
 \include{chapters/chapter5}
 
+\selectlanguage{english}
 \bibliography{bib/bibliography}
+\selectlanguage{greek}
 \end{document}

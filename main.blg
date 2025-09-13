@@ -9,10 +9,6 @@ A level-1 auxiliary file: chapters/chapter3.aux
 A level-1 auxiliary file: chapters/chapter4.aux
 A level-1 auxiliary file: chapters/chapter5.aux
 Database file #1: bib/bibliography.bib
-Warning--entry type for "Wada2005" isn't style-file defined
---line 1226 of file bib/bibliography.bib
-Warning--I didn't find a database entry for "KlirYuan1995"
-Warning--I didn't find a database entry for "iotcloud1"
 Warning--empty journal in WHO
 Warning--empty publisher in broek
 Warning--empty journal in morschhauser2006healthy
@@ -21,45 +17,45 @@ Warning--empty booktitle in Kittman2015
 Warning--empty journal in Sun2009
 Warning--empty booktitle in Salem2015
 Warning--empty journal in Nguyen
-You've used 124 entries,
+You've used 126 entries,
             1791 wiz_defined-function locations,
-            1230 strings with 35753 characters,
-and the built_in function-call counts, 25078 in all, are:
-= -- 2484
-> -- 494
+            1233 strings with 36183 characters,
+and the built_in function-call counts, 25512 in all, are:
+= -- 2526
+> -- 498
 < -- 14
-+ -- 247
-- -- 123
-* -- 1477
-:= -- 3773
-add.period$ -- 399
-call.type$ -- 124
-change.case$ -- 118
++ -- 250
+- -- 124
+* -- 1499
+:= -- 3841
+add.period$ -- 407
+call.type$ -- 126
+change.case$ -- 119
 chr.to.int$ -- 0
-cite$ -- 132
-duplicate$ -- 1225
-empty$ -- 2847
-format.name$ -- 123
-if$ -- 5709
+cite$ -- 134
+duplicate$ -- 1258
+empty$ -- 2903
+format.name$ -- 124
+if$ -- 5811
 int.to.chr$ -- 0
-int.to.str$ -- 124
-missing$ -- 115
-newline$ -- 632
-num.names$ -- 122
-pop$ -- 405
+int.to.str$ -- 126
+missing$ -- 120
+newline$ -- 643
+num.names$ -- 124
+pop$ -- 413
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 492
+skip$ -- 494
 stack$ -- 0
-substring$ -- 1871
-swap$ -- 246
+substring$ -- 1896
+swap$ -- 250
 text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 8
-while$ -- 280
-width$ -- 127
-write$ -- 1352
-(There were 11 warnings)
+while$ -- 284
+width$ -- 129
+write$ -- 1376
+(There were 8 warnings)

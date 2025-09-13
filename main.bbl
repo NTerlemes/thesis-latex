@@ -4,19 +4,19 @@
 {\textlatin{Gartner, Inc.}}
 \newblock {\textlatin{Hype cycle}}.
 \newblock {\textlatin{\url{https://blogs.gartner.com/smarterwithgartner/files/2018/08/PR_490866_5_Trends_in_the_Emerging_Tech_Hype_Cycle_2018_Hype_Cycle.png}}}, 2018.
-\newblock [Προσπελάστηκε 20 Ιουνίου 2019].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 20 Ιουνίου 2019}].
 
 \bibitem{iotnumb}
 {\textlatin{Straw, John}}.
-\newblock {\textlatin{Disrupted electronics. The internet of things may create Moore's Law on steroids}}.
+\newblock {\textlatin{Disrupted electronics. The internet of things may create Moore's law on steroids}}.
 \newblock {\textlatin{\url{https://disruptionhub.com/disrupted-electronics-internet-things-may-create-moores-law-steroids}}}, 2015.
-\newblock [Προσπελάστηκε 22 Ιουνίου 2019].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 22 Ιουνίου 2019}].
 
 \bibitem{iotrm}
 {\textlatin{Marginean, Hannelore and Tran, Tuan-Si and Karzel, Daniel}}.
 \newblock {\textlatin{The Internet of Things Reference Model}}.
 \newblock {\textlatin{\url{https://www.infoq.com/articles/internet-of-things-reference-architecture}}}, 2016.
-\newblock [Προσπελάστηκε 22 Ιουνίου 2019].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 22 Ιουνίου 2019}].
 
 \bibitem{rfidpass}
 {\textlatin{Zamam Tanim, M.M.}}
@@ -25,12 +25,12 @@
 \bibitem{iot_applications}
 {\textlatin{IoT Applications}}.
 \newblock {\textlatin{\url{https://siliconangle.com/}}}, 2018.
-\newblock [Προσπελάστηκε 4 Ιουλίου 2019].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 4 Ιουλίου 2019}].
 
 \bibitem{human_population}
 {\textlatin{Population Structure}}.
 \newblock {\textlatin{\url{http://www.demographics.at/images/structure/wpp2015_world_pop_0-25-50_line-pie_orig.gif}}}, 2019.
-\newblock [Προσπελάστηκε 4 Ιουλίου 2019].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 4 Ιουλίου 2019}].
 
 \bibitem{WHO}
 {\textlatin{World Health Organization}}.
@@ -52,10 +52,15 @@
 \newblock {\textlatin{A survey on ambient-assisted living tools for older adults}}.
 \newblock {\em {\textlatin{IEEE journal of biomedical and health informatics}}}, 17(3):579--590, 2012.
 
+\bibitem{KlirYuan1995}
+{\textlatin{Klir, George J. and Yuan, Bo}}.
+\newblock {\em {\textlatin{Fuzzy Sets and Fuzzy Logic: Theory and Applications}}}.
+\newblock {\textlatin{Prentice-Hall, Inc.}}, 1995.
+
 \bibitem{Ross2010}
-T.J. Ross.
-\newblock {\em Fuzzy Logic with Engineering Applications}.
-\newblock Wiley, 3rd edition, 2010.
+{\textlatin{Ross, T.J.}}
+\newblock {\em {\textlatin{Fuzzy Logic with Engineering Applications}}}.
+\newblock {\textlatin{Wiley}}, {\textlatin{3rd}} edition, 2010.
 
 \bibitem{Zadeh1965}
 {\textlatin{Zadeh, L. A.}}
@@ -63,9 +68,9 @@ T.J. Ross.
 \newblock {\em {\textlatin{Information and Control}}}, 8(3):338--353, 1965.
 
 \bibitem{DuboisPrade1980}
-D.~Dubois and H.~Prade.
-\newblock {\em Fuzzy Sets and Systems: Theory and Applications}.
-\newblock Academic Press, 1980.
+{\textlatin{Dubois, D. and Prade, H.}}
+\newblock {\em {\textlatin{Fuzzy Sets and Systems: Theory and Applications}}}.
+\newblock {\textlatin{Academic Press}}, 1980.
 
 \bibitem{book:giusto}
 {\textlatin{Leal, Bernardo and Atzori, Luigi (auth.), Giusto, Daniel and Iera, Antonio and Morabito, Giacomo and Atzori, Luigi (eds.)}}.
@@ -76,19 +81,19 @@ D.~Dubois and H.~Prade.
 {\textlatin{Cisco}}.
 \newblock {\textlatin{Internet of Things At a Glance}}.
 \newblock {\textlatin{\url{https://www.cisco.com/c/en/us/solutions/collateral/service-provider/visual-networking-index-vni/white-paper-c11-741490.html}}}, 2019.
-\newblock [Προσπελάστηκε 22 Ιουνίου 2019].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 22 Ιουνίου 2019}].
 
 \bibitem{gartner2016}
 {\textlatin{Gartner, Inc.}}
 \newblock {\textlatin{Gartner Says by 2020, More Than Half of Major New Business Processes and Systems Will Incorporate Some Element of the Internet of Things}}.
 \newblock {\textlatin{\url{https://www.gartner.com/en/newsroom/press-releases/2016-01-14-gartner-says-by-2020-more-than-half-of-major-new-business-processes-and-systems-will-incorporate-some-element-of-the-internet-of-things}}}, 2016.
-\newblock [Προσπελάστηκε 21 Ιουνίου 2019].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 21 Ιουνίου 2019}].
 
 \bibitem{mck2016}
 {\textlatin{Bauer, H. and Patel, M. and Veira, J.}}
 \newblock {\textlatin{The Internet of things: Sizing up the opportunity}}.
 \newblock {\textlatin{\url{http://www.mckinsey.com/industries/high-tech/ our-insights/the-internet-of-things-sizing-up-the-opportunity}}}, 2016.
-\newblock [Προσπελάστηκε 21 Ιουνίου 2019].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 21 Ιουνίου 2019}].
 
 \bibitem{ATZORI20102787}
 {\textlatin{Atzori, Luigi and Iera, Antonio and Morabito, Giacomo}}.
@@ -99,18 +104,23 @@ D.~Dubois and H.~Prade.
 {\textlatin{Murata Manufacturing Co., Ltd.}}
 \newblock {\textlatin{Murata introduces ultra small RAIN RFID tag for wearable and healthcare.}}
 \newblock {\textlatin{\url{https://www.murata.com/en-global/products/info/rfid/rfid/2017/0831}}}, 2017.
-\newblock [Προσπελάστηκε 23 Ιουνίου 2019].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 23 Ιουνίου 2019}].
 
 \bibitem{rainrfid}
 {\textlatin{Feig Electronics}}.
 \newblock {\textlatin{Benchmark Testing of UHF RFID Readers: How to Get Maximum Performance with the Latest RAIN RFID Tag}}.
 \newblock {\textlatin{\url{https://rfidreadernews.com/wp-content/uploads/2017/04/FEIG-Whitepaper-Benchmark-Testing-of-UHF-RFID-Readers.pdf}}}, 2017.
-\newblock [Προσπελάστηκε 23 Ιουνίου 2019].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 23 Ιουνίου 2019}].
 
 \bibitem{rfc7452}
 {\textlatin{Tschofenig, H. and Arkko, J. and Thaler, D. and McPherson, D.}}
 \newblock {\textlatin{Architectural Considerations in Smart Object Networking}}.
 \newblock {\textlatin{\url{https://tools.ietf.org/html/rfc7452}}}, {\textlatin{March}} 2015.
+
+\bibitem{iotcloud1}
+{\textlatin{Botta, A. and de Donato, W. and Persico, V. and Pescapé, A.}}
+\newblock {\textlatin{Cloud computing and Internet of Things integration: A survey}}.
+\newblock {\em {\textlatin{Computer Networks}}}, 108:147--166, 2016.
 
 \bibitem{iotcloud2}
 {\textlatin{Alhakbani, N. and Hassan, M.M. and Hossain, M.A. and Alnuem, M.}}
@@ -121,7 +131,7 @@ D.~Dubois and H.~Prade.
 {\textlatin{Foster, T.}}
 \newblock {\textlatin{Regulation of the Internet of Things}}.
 \newblock {\textlatin{\url{https://www.scl.org/articles/3685-regulation-of-the-internet-of-things}}}, 2017.
-\newblock [Προσπελάστηκε 25 Ιουνίου 2019].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 25 Ιουνίου 2019}].
 
 \bibitem{borgia2014}
 {\textlatin{Borgia, Eleonora}}.
@@ -239,7 +249,7 @@ D.~Dubois and H.~Prade.
 \newblock 2006.
 
 \bibitem{dubois2019extending}
-\en{Dubois, Hans and others}.
+\en{Dubois, Hans et al.}
 \newblock \en{Extending working lives through flexible retirement schemes}.
 \newblock In {\em \en{Policies for an Ageing Workforce}}, pages 32--37. \en{CEPS Centre for European Policy Studies}, 2019.
 
@@ -257,7 +267,7 @@ D.~Dubois and H.~Prade.
 {\textlatin{Georgia Instiute of Technology}}.
 \newblock {\textlatin{The Aware Home Research Initiative(AHRI)}}.
 \newblock {\textlatin{\url{http://www.awarehome.gatech.edu/}}}, 2019.
-\newblock [Προσπελάστηκε 3 Μαρτίου 2020].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 3 Μαρτίου 2020}].
 
 \bibitem{Adlam2004}
 {\textlatin{Adlam, T. and Faulkner, R. and Orpwood, R. and Jones, K. and Macijauskiene, J. and Budraitiene, A.}}
@@ -457,17 +467,18 @@ D.~Dubois and H.~Prade.
 \bibitem{Mukai2010}
 {\textlatin{Mukai, T. and Hirano, S. and Nakashima, H. and Kato, Y. and Sakaida, Y. and Guo, S. and Hosoe, S.}}
 \newblock {\textlatin{Development of a nursing-care assistant robot RIBA that can lift a human in its arms}}.
-\newblock {\textlatin{2010 IEEE/RSJ International Conference on Intelligent Robots and Systems}}, {\textlatin{Oct}} 2010.
+\newblock In {\em {\textlatin{2010 IEEE/RSJ International Conference on Intelligent Robots and Systems}}}, {\textlatin{Oct}} 2010.
 
 \bibitem{Kompai2017}
 {\textlatin{Kompa\"i Robotics}}.
 \newblock {\textlatin{Kompai Robots}}.
 \newblock {\textlatin{\url{https://www.kompai.com}}}, 2017.
-\newblock [Προσπελάστηκε 7 Μαρτίου 2020].
+\newblock [\foreignlanguage{greek}{Προσπελάστηκε 7 Μαρτίου 2020}].
 
 \bibitem{Wada2005}
 {\textlatin{Wada, K. and Shibata, T. and Saito, T. and Sakamoto, K. and Tanie, K.}}
-\newblock {\textlatin{Psychological and Social Effects of One Year Robot Assisted Activity on Elderly People at a Health Service Facility for the Aged}}, 2005.
+\newblock {\textlatin{Psychological and Social Effects of One Year Robot Assisted Activity on Elderly People at a Health Service Facility for the Aged}}.
+\newblock In {\em {\textlatin{Proceedings of the 2005 IEEE International Conference on Robotics and Automation}}}. {\textlatin{IEEE}}, 2005.
 
 \bibitem{Kanamori2002}
 \en{Masao Kanamori and Mizue Suzuki and Misao Tanaka}.
@@ -600,7 +611,7 @@ D.~Dubois and H.~Prade.
 \newblock In {\em {\textlatin{2013 IEEE Global Communications Conference (GLOBECOM)}}}. {\textlatin{IEEE}}, {\textlatin{Dec}} 2013.
 
 \bibitem{roggen2010}
-{\textlatin{Roggen, Daniel and Calatroni, Alberto and Rossi, Mirco and Holleczek, Thomas and Förster, Kilian and Tröster, Gerhard and Lukowicz, Paul and Bannach, David and Pirkl, Gerald and Ferscha, Alois and others}}.
+{\textlatin{Roggen, Daniel and Calatroni, Alberto and Rossi, Mirco and Holleczek, Thomas and Förster, Kilian and Tröster, Gerhard and Lukowicz, Paul and Bannach, David and Pirkl, Gerald and Ferscha, Alois et al.}}
 \newblock {\textlatin{Collecting complex activity datasets in highly rich networked sensor environments}}.
 \newblock In {\em {\textlatin{2010 Seventh international conference on networked sensing systems (INSS)}}}, pages 233--240. {\textlatin{IEEE}}, 2010.
 
